@@ -127,28 +127,6 @@ https://github.com/Honey7868/WorkTrack-Project-Task-Management-System
 
 ---
 
-# 📊 GitHub Statistics
-
-<p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=Honey7868&show_icons=true&theme=tokyonight&hide_border=true"/>
-
-<img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=Honey7868&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
-# 📈 Most Used Languages
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Honey7868&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</p>
-
----
-
 # ⚡ GitHub Activity Graph
 
 <p align="center">
